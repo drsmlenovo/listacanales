@@ -1,7 +1,487 @@
-EXTM3U
-#EXTINF:-1 tvg-logo="http://www.galicine.com/_img_peliculas/caratula_grande1732.jpg",El renacido [The Revenant]
-http://www.nowvideo.to/video/d15d5cc48080f
-#EXTINF:-1 tvg-logo="http://www.peliculasrey.com/wp-content/uploads/2016/01/norman-del-norte.jpg",Norman del norte
-http://www.nowvideo.to/video/508b497e33a33
-#EXTINF:-1 tvg-logo="http://www.peliculasrey.com/wp-content/uploads/2016/01/norman-del-norte.jpg",Norman del norte
-http://www.yaske.cc/es/peliculas/custom/?year=2015
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/71cSuahdQRL._SX342_.jpg",LA DICTADURA PERFECTA SD
+http://www.spruto.tv/get_file/2/588e561ff46cf4866914b732c8ad294b/105000/105729/105729.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/643858917198561281/Ljv0CRns.jpg",pixels HD
+https://lh3.googleusercontent.com/vMM2B0DcwJ2CcCIThv3m2tqS7IO8t-4pq6kvGYmoF-0=m37
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",Hombres en Guerra SD
+http://www.spruto.tv/get_file/2/faddaa090f3f876390cb47f33d8f8c3e/89000/89041/89041.mp4
+#EXTINF:-1 tvg-logo="https://static-cp-cache.s3-us-west-2.amazonaws.com/q100/w250/static-cp/cine/movie/los-33-8236-poster-1437493715.jpg",LOS 33 HD
+https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv
+#EXTINF:-1 tvg-logo="http://www.ecartelera.com/carteles/8700/8705/008_p.jpg",El corredor del laberinto: Las pruebas HD
+https://lh3.googleusercontent.com/WlRQXHAxQDggBnivUw3UfdUrzq2k7wydHwddwwG8Hq4=m37
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/91DKCUPtLHL._SX342_.jpg",Ted 2 HD
+https://lh3.googleusercontent.com/3iuPbTxgl4DeuqyRTGzaBY1wk33fzudzU6K6oYpkA0s=m37
+#EXTINF:-1 tvg-logo="http://thewatchmovie.xyz/wp-content/uploads/2015/12/Watch-San-Andreas-2015-Online-Full-Movie-HD.jpg",San Andreas HD
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!236&authkey=!AMsX3JkTfM8nsWs&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://bityouth.com/images/peliculas/Pan_Viaje_a_Nunca_Jam_s-879955698-large.jpg",Pan viaje a nunca jamas
+https://discontrol@goo.gl/Bze6bv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Bone_collector_poster.jpg",el coleccionista de huesos
+http://discontrol@goo.gl/a0mQzo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/47Ronin2012Poster.jpg",la leyenda del samurai 47 ronin
+https://discontrol@goo.gl/Gd4KG8
+#EXTINF:-1 tvg-logo="http://imgs24.com/images/SMvwb.jpg",la vida es bella
+http://discontrol@goo.gl/KqIJH4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bFRK5FJ.png",Desterrado
+https://discontrol@goo.gl/RqMSPD
+#EXTINF:-1 tvg-logo="http://www.filmibeat.com/img/220x80x275/popcorn/movie_posters/ripd-20130702143433-12897.jpg",R.I.P.D.
+https://discontro@goo.gl/BbUP31
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/TheThreeMusketeers2011Poster.jpg",los tres mosqueteros
+https://discontrol@goo.gl/RSqVtN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/American_Ultra_poster.jpg",american ultra
+https://discontrol@goo.gl/Bd0TkV
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-CE-A0NznjDo/Td_TjhH8V8I/AAAAAAAABbA/TjW8g6kGb_w/s350/Hitman%2B%2528Agente%2B47%2529.jpg",Hitman: Agente 47 HD
+https://lh3.googleusercontent.com/jjtDmmO3Gc4N3fn57XE7lxfmzqIAmRsQA065QXDkW3Y=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Ant-Man_poster.jpg",Ant-Man HD
+https://lh3.googleusercontent.com/dKhaBcSq8PtRf20tZGceVSHxqpHwd7e5WliOC-Z8k9Y=m37
+#EXTINF:-1 tvg-logo="http://s23.postimg.org/4vnhmoxi3/4_fantasticos_2015_imagenes1.jpg",Cuatro fantásticos HD 
+https://lh3.googleusercontent.com/r_lQGT85Xwm4tHmn0-8U_1fj1GzZ6pkM2H5g3CDZB_Y=m37
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",temblores 5 HD
+https://lh3.googleusercontent.com/1bxhg8RIjBIftRtL0ZKDz38qcln94jAKB7iOo7PrkKU=m37
+#EXTINF:-1 tvg-logo="http://www.zentorrents.com/images/articles/25/25975.jpg",El Hombre de los Puños de Hierro 2
+https://lh3.googleusercontent.com/RK7kv_x2svBc7XEta4mW2IvbLfqY69x5xBnWiwtSY0I=m37
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/91f0bPMQMbL._SY445_.jpg",El instituto Atticus HD
+https://lh3.googleusercontent.com/5CkLgcat0brSOoy4-nwYJg1H-00LwRDT9zIJwIeAxao=m37
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/2e/2a/0f/2e2a0fd5a6f84704e4b701b613f17ebd.jpg",Operación U.N.C.L.E
+https://lh3.googleusercontent.com/uTkhgow9fq0pni2v-PTxcgm9wkxAip7SNat75rv0fLc=m37
+#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid14781.jpg",Sin Escape HD
+https://lh3.googleusercontent.com/V9qoIWHKSpDwp_6PTX4_naTikgYA7_UvlGe-8GwTHyg_=m37
+#EXTINF:-1 tvg-logo="http://image.casadellibro.com/m/ig/8/2655558.jpg",Y de repente tú HD
+https://lh3.googleusercontent.com/l836qeCIydBWq_k_8c607OKHlNIz-yArAppWPFnSfxQ=m22
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_espada_de_la_venganza-287187101-large.jpg",La espada de la venganza HD
+https://lh3.googleusercontent.com/7h3UYBtfuX6k1Y0kQYlvGFyTocckzcIOtm4DixK70bo=m37
+#EXTINF:-1 tvg-logo="http://dvdblumarket.com/images/darkplabdbd.jpg",Lugares oscuros HD
+https://lh3.googleusercontent.com/SH7T9Evpzdf_lmLFqIkodKG8hVZIfAaerFyP2W3VO-U=m37
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-yoL97WeN1nQ/Vh8BLH1K60I/AAAAAAAAZng/m8WtIvuKZdA/s1600/intensamente-blu-ray-hd-latino.jpg",intensamente, Home HD
+https://lh3.googleusercontent.com/02BKZzeWuDqdLLyTPx5nhCz1jYTRQGIJ03en0saaJZQ=m37
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oEeugz2VKEM/Vczhr18ajQI/AAAAAAAAVoQ/zruNFTXx2kQ/s320/The_Vatican.jpg",Exorcismo en el Vaticano HD
+https://lh3.googleusercontent.com/3TmcOI7_uFJgdpUtVu6wH_5hp8xU1osDiZRyI-zVcbs=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/The_Gallows_Poster.jpg",La Horca HD
+https://lh3.googleusercontent.com/satEWb2K52Sm3v-IX_ELkKwX_tQSUw3WAg5ZEIkmqHU=m22
+#EXTINF:-1 tvg-logo="http://i65.fastpic.ru/big/2015/0103/7f/1344c67a1873c3a93985054e4068907f.jpg",El rey Escorpión 4: La búsqueda del poder
+https://lh3.googleusercontent.com/ZZc_Ipglvp2NNBi51MmQSbVBCJTujCP1E2S2xSkDFO0=m37
+#EXTINF:-1 tvg-logo="http://images.redbox.com/Images/EPC/Kiosk/7931.jpg",max HD
+https://lh3.googleusercontent.com/61YJ3LAY3Zt6OWvU7QQWdFBRwvjJ2NFDl44Q1an6j_0=m22
+#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2015/03/Poltergeist_poster_usa.jpg",poltergeist HD
+https://lh3.googleusercontent.com/tnzCgUfLx1EDYyUIzn1nx2Fj288_ws9w9JGQ5iNQpnI=m22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Insidious_%E2%80%93_Chapter_3_poster.jpg",la noche del demonio 3 HD
+https://lh3.googleusercontent.com/7eupnz87bSSaHXb_Jj2BcZL3ICuTdG6WYPL-d6UrHg=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Terminator_Genisys.JPG",terminaiotr genesis HD
+https://lh3.googleusercontent.com/Y1oGCzwsMeTDoXoso1X-jJGAp_T77qRBBFjoRpUR5w=m37
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jihh9SobwuM/VeTs_henoGI/AAAAAAAABzA/t_YW0WYT-ek/s400/w.png",los vengadores:la era de ultron HD
+https://lh3.googleusercontent.com/Vf4jaYQZNOpN2i434cZ-UC4BDcqLWCNu0LN26d_plw=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Spy2015_TeaserPoster.jpg",espias HD
+https://lh3.googleusercontent.com/w9w_o270iOxdJTuoeZx_hgiP4rWIfF3QdLZvFsAh2Q=m37
+#EXTINF:-1 tvg-logo="http://images.moviepostershop.com/mad-max-fury-road-movie-poster-2015-1010772203.jpg",Mad Max HD
+https://lh3.googleusercontent.com/o_jCd6TJvXDAR5bSCijbwrRcghP8-mnRIi0Fw7VUPAU=m22 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/1f/89/49/1f8949f4caa82cd4bb5a69272172eada.jpg",jurassic world HD
+https://lh3.googleusercontent.com/xEXCWyVx_iaeFU-9jFTJ9u8WMUnrfQhEcgJ4qmz-aSI=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Hot_Pursuit_2015_poster.jpg",pisandonos los tacones
+https://lh3.googleusercontent.com/oKYj7yO-QCqrqNFI72olg5ow1zLJ-zMwC9xZ8R7EgMY=m37
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-vHYqizpsRVw/VWkaZGmb3DI/AAAAAAAAEa0/_HqrBfmE_To/s1600/Demonic%2B%2528%2B2015%2B%2529.jpg",demonic HD
+https://lh3.googleusercontent.com/_GtlHHjHPg9IKsGMBrXTEuieM5VgJk2kgFYFvMh6sVo=m37
+#EXTINF:-1 tvg-logo="http://www.cinemasguzzo.com/DATA/FILM/1735~v~the-lazarus-effect.jpg",The Lazarus Effect HD
+https://lh3.googleusercontent.com/dkzpC11CpJcEGVqqPRmqzlitXJTqNlUt7XrwbZEC4Eo=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Divergent.jpg",divergente HD
+https://lh3.googleusercontent.com/zGytAKZPybT_X2bDxJeuixIO82Q_yka7f0EtDWCplmU=m37
+#EXTINF:-1 tvg-logo="http://edgevegas.com/wp-content/uploads/2014/11/paul-blart-mall-cop-2-movie-poster.jpg",superpoli en las vegas HD
+https://lh3.googleusercontent.com/NXj_pwMvmop9MU4uNjteDtMKMJjsKI_a19FVmwcy3iY=m37
+#EXTINF:-1 tvg-logo="http://indojinshop.com/image/cache/data/222/359-300x400.jpg",Blackhat - Amenaza en la red
+https://lh3.googleusercontent.com/kqhvIkF0s3OSdSaf89cS1LLXaQg0l0AgxSUJW94pNKw=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Chappie_poster.jpg",chappie HD
+https://lh3.googleusercontent.com/tlBA7y-qxAu-e4QhY2dxaMUFjhcLki309SVAebSS9TA=m37
+#EXTINF:-1 tvg-logo="http://www.descargatelocorp.com/wp-content/uploads/2015/06/Una-Noche-Para-Sobrevivir-HD-1080p.jpg",Una noche para sobrevivir HD 
+https://lh3.googleusercontent.com/QdxBEhFU2tRoqwYjToVwTQKMmcFOlGx1KFtS0Eot6yA=m22
+#EXTINF:-1 tvg-logo="https://www.katproxy.al/yuqme/users/40/769/aTvKmil2j9.jpg",el destino de Jupiter HD
+https://lh3.googleusercontent.com/I2OBhUIt1pqJPJsgqOn5vvY32btHoGOf-D0PcOsUsVs=m37
+#EXTINF:-1 tvg-logo="http://www.mongrelmedia.com/MongrelMedia/files/a5/a5efcf3d-3afa-4f3b-ae59-365420c9eec6.jpg",Ex Machina HD
+https://lh3.googleusercontent.com/PpVxhokBwK2HNzKVsW_0bdG78u1j77-Y65t6I47-nQ0=m37
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/2015_Focus_film_poster.png",focus HD
+https://lh3.googleusercontent.com/qjH6stagxP3LkLJQa4Biai0H4FXPauyrqOD39zT8kvM=m37
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Y2zZTasEqGuOpJB1bXUkqloFlfTfUIkZzr_n7menGkO2_hr4JXWfhb37YhrVQCvuOqA=w300",Cincuenta sombras de Grey HD
+https://lh3.googleusercontent.com/tW0c8Um-5OKVjGJMZhJSKqUvpGDG64-dN1SJpPhhxBw=m37
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rKReeKt5cp8/U4gG4YiwvJI/AAAAAAAAG94/BwXjyJOYDT8/s1600/front.jpg",No se aceptan devoluciones
+http://www.spruto.tv/get_file/1/0dc75c7c7ae034d5a6b135e2e860f1b5/87000/87074/87074.mp4
+#EXTINF:-1 tvg-logo="http://www.customdvd.org/forum/attachment.php?attachmentid=65385&stc=1&thumb=1&d=1444932291",Beasts of No Nation Latino Dual
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!169&authkey=!AO6tNCwsfEQ8Qbw&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTU3ODYwMTk0Ml5BMl5BanBnXkFtZTgwMjkzMjY0NTE@._V1_SX214_AL_.jpg",AREA 51
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://www.iceposter.com/thumbs/MOV_3dab7dd6_b.jpg",The Contract
+https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Vacation_poster.jpg",vacaciones
+https://discontrol@ia801507.us.archive.org/14/items/U4C4C1OZ35/U4C4C1OZ35.mp4?disco
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51t9ke%2BBn8L._SY445_.jpg",The Exorcism of Molly Hartley
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/147810/147810_aa.jpg",Knock Knock
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://s1.discshop.se/img/front_200/137261/i_spit_on_your_grave_3.jpg",Escupire Sobre Tu Tumba 3 [Sub]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-IGNFVmvK4wg/VdIryjB21dI/AAAAAAAAVrk/zYpVvQXsRjE/s1600/Wild%2BCard.jpg",Jugada Salvage (1080p) Dual
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",Aire (latino) (1080)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5TuBYcuSKVl_c&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="https://static.cinemex.com/movie_posters/f3p29bOuqAp5i1q-182x272.jpg",El Secreto De Adaline (latino)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://www.mysoju.tv/images/3/3/21125/Tracers__84.jpg",Tracers (Dual)1080p
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/1b/48/b8/1b48b856ba6b01fa7b460cb0e07a47d8.jpg",Ciudades De Papel
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIfn4zeTzUl9o&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/91/0f/5f/910f5ff091952f5595eff4addffc652d.jpg",Magic Mike XXL [dual]
+https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!516&authkey=!ADXBQuKDqYvTXsY&ithint=file%2cm
+#EXTINF:-1 tvg-logo="http://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-16461606941425600208.jpg",El Gran Pequeño
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!217&authkey=!ABWBQFfi5w4LlTk&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/47/3d/0f/473d0f8c94391342b6abf6ebb47ee099.jpg",Los Vengadores: La Era de Ultrón [Dual]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!988&authkey=!AIkgN34Obsw2Dvc&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://catalogodepeliculas.com/BLU-RA575.jpg",Una última y nos vamos Opcion 2
+https://onedrive.live.com/download.aspx?resid=8F8E52C3E63CF853!1810&authkey=!ADxysPcJZHoaTpI&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Paul_blart_mall_cop_film.jpg",Heroe De Centro Comercial 2
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!120&authkey=!AI69kIiLDce2CrQ&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-K-CifrEBjMQ/Vas-Jxotn4I/AAAAAAAAGb0/XSS05VmR2wY/s1600/320-Insurgent.jpg",La serie Divergente: Insurgente [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!233&authkey=!AIsnDN6JCcFF6cg&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://www.peliculasonlineflv.org/img/the-lazarus-effect-resucitados.jpg",Resucitados [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!283&authkey=!AHnvu6c3-ihLIjw&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://www.watch32.ws/uploads/posts/2015-03/1426427389_lone-survivor-full-movie.jpg",el unico superviviente
+https://Discontrol@goo.gl/Rx4dMG?disco
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjA5NDgxMTgzNl5BMl5BanBnXkFtZTcwMjc0NTUxMQ@@._V1_SX640_SY720_.jpg",lionheart
+https://discontrol@goo.gl/exlPLu?disco
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jzqL005wqss/VCH5F0jrA9I/AAAAAAAAF3E/otS3maeIG9M/s1600/plan-de-escape-2014-poster-2013.jpg",plan de escape
+https://discontrol@goo.gl/RLeIss?disco
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/5134ogvvuXL.jpg",triste san valentin
+http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51tMOZf57OL._SX940_.jpg",hallowen
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://www.rodandocine.com/wp-content/uploads/2007/05/hitcher.jpg",Asesino de La Carretera
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",un vuelo de locura
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://e08595.medialib.glogster.com/media/6d/6d9832625f90366fa47cdc18b6a243ea9fcb51f09cb2cd7b3eb8674396077bdf/back-to-the-future1-1.jpg",volver al futuro 1
+https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Back_to_the_Future_Part_II.jpg",volver al futuro 2
+https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Back_to_the_Future_Part_III.jpg",volver al futuro 3 
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",batman 3
+https://discontrol@ia601507.us.archive.org/13/items/WV9CY/847W4Z.93Z4C3.mp4?disco
+#EXTINF:-1 tvg-logo="http://i.neoseeker.com/boxshots/TW92aWVzL0FjdGlvbg==/mad_max_2_frontcover_large_OlzQiyTZjsuX2QD.jpg",mad max 2
+https://discontrol@ia801504.us.archive.org/4/items/W46.W4X.2/W46.W4X.2.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Waterworld.jpg",mundo-acuatico
+https://discontrol@lh3.googleusercontent.com/NYmz_WCo3MtIS6qHT35IktGx77gfrxe2-gaNANLAbm4=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",forrest-gump
+https://lh3.googleusercontent.com/Vt_McCFlG2eM-HGBQfeYXfJ7ikMnxs_PJ4EWxkF_yIA=m22?disco
+#EXTINF:-1 tvg-logo="http://media.hamptonroads.com/cache/files/images/blogs/129661.jpg",escuela-de-rock
+https://discontrol@lh3.googleusercontent.com/b4qobWghlyc7zNA3KaPQOsmPiX_1yjJHtxskZAjTvFE=m22?disco
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/5b/74/d6/5b74d6de519f61174c6a1f272d50e2ea.jpg",corazon-valiente
+https://discontrol@lh3.googleusercontent.com/5Tk5OjxKB-FN5LsuGD5kmm-ntMDxgh1LuYCDv98tEuc=m22?disco
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/17/6d/bf/176dbfbcb0e4a85740a75fafb633a166.jpg",acero-puro
+https://discontrol@lh3.googleusercontent.com/M9Ttea9jQUa6l6FDcAypzCqrpJaPU_x2pDKDVtdpbuE=m22?disco
+#EXTINF:-1 tvg-logo="http://d39ya49a1fwv14.cloudfront.net/wp-content/uploads/2013/09/gravity-poster.jpg",gravity
+https://discontrol@lh3.googleusercontent.com/mi502LitW1YuLRKwQaxvq5IgS7zslWr_UNItaaDo-Bw=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Troy2004Poster.jpg/220px-Troy2004Poster.jpg",troya
+https://discontrol@lh3.googleusercontent.com/Y6g4zVUWKRbNHB-Vh6B0PSPoNETHZPufl9hgFHiD9ok=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Nachopost.jpg",super-nacho
+https://discontrol@lh3.googleusercontent.com/UMchKljEQomXkWtjsssOkFwHUJTsK-gWNFAI4a-fDCY=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Predator_Movie.jpg",depredador
+https://discontrol@lh3.googleusercontent.com/1egibkYui1bmQuUhN0CUFrq40umwv2gg1oWuFeRneaA=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Predators_54632_glg.jpg",predators
+https://discontrol@lh3.googleusercontent.com/Jh9f_gy2kymdlwyiu0NVGQT2zJrQMOLI3zA66kzTsac=m22?disco
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/hcElwOIZIteJMLGZ48hoBEOgsvj4279C4h3WhPh4bD6mZaIGiTpokc-AGgWJYWYu3Uo=w300",zathura-una-aventura-espacial
+https://discontrol@lh3.googleusercontent.com/ZiidYARvPfWy8t7oBEF1aW2Ntmrj9iO9NCRLKE0cqpA=m22?disco
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/cHuoxvu6sPw2F7aKmjuUOszadZj.jpg",oz-un-mundo-de-fantasia
+https://discontrol@lh3.googleusercontent.com/yhkFsLPVhnQp2mGstgoyh518muVpBoKOJ0iWIDMzCmU=m22?disco
+#EXTINF:-1 tvg-logo="http://i.azcentral.com/thingstodo/movies/images/129880/129880_ab.jpg",dallas-buyers-club
+https://discontrol@lh3.googleusercontent.com/JgX2LpKBufqGVyJeNxdeJRVnJQFyJJIZ5lcBU99HD9U=m22?disco
+#EXTINF:-1 tvg-logo="https://d3jovt6qzgy13f.cloudfront.net/upload/peliculas/afiche/216x306/688_malefica.jpg",malefica
+https://discontrol@lh3.googleusercontent.com/aZ-jboZuungvmLW7Syja_n5FPFIe1GRGK0WvDQOHEfY=m22?disco
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/chuckychildsplay/images/1/1a/Childs-play-movie-poster1.jpg/revision/latest?cb=20100602092131",muneco-diabolico
+https://discontrol@lh3.googleusercontent.com/LqpXeTTvqjrGfUKu0e9262XJ3PmAbItbb4JHEgeX-A=m22?disco
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eZWTpInKiM8/movieposter.jpg",muneco-diabolico-2
+https://discontrol@lh3.googleusercontent.com/VGfu4sCjQl77mIJpr75AhZpVPrhkomJKelLM3cGx0A=m22?disco
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/41DRRVX9W1L.jpg",muneco-diabolico-3
+https://discontrol@lh3.googleusercontent.com/479azteX4YTHQpfeO1i_ZBTz8IekexRgIsXXWVsr9g=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",matrix
+https://discontrol@lh3.googleusercontent.com/429b8D1jCSXUIMZt85sjUyeItRK89iECW3LdKQRLKbs=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Matrix_revolutions_ver7.jpg",matrix-revolutions
+https://discontrol@lh3.googleusercontent.com/4O5GiYT9ZgEfQagbAJKtIgVUhZtvCky1FwGvop7ppA=m22?disco
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51X3JZK2QXL._SY300_.jpg",jumanji
+https://discontrol@lh3.googleusercontent.com/BkuSz3bo2PBmNfv7nLZ-FOXzHZu6INkmLOKBnPl7bEM=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Godzilla_(2014)_poster.jpg",godzilla
+https://discontrol@lh3.googleusercontent.com/YoJY9E2N8QaLmUmCMRdJv4vpHzt2qZ3f5B7k5SWRbqE=m22?disco
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-pzGXJk9JnRE/UAw1A_oR6KI/AAAAAAAAA1w/zm1YYXa81HI/s275/siempre-a-tu-lado-hachiko.jpg",siempre-a-tu-lado-hachiko
+https://discontrol@lh3.googleusercontent.com/_PyFkZ4AaBbJmGrm8vXAhOJkl1UvLH98aHvKqpSjxoE=m22?disco
+#EXTINF:-1 tvg-logo="http://www.cinematter.com/gifs/SavingPrivateRyan.jpg",rescatando-al-soldado-ryan
+https://discontrol@lh3.googleusercontent.com/aIB0xYRuDxQefejfMVsBcXR8plr9Np2_bcikkotMu-w=m22?disco
+#EXTINF:-1 tvg-logo="http://static.flickr.com/88/248649115_9c3c0324bc.jpg",el-pianista
+https://discontrol@lh3.googleusercontent.com/uUWJEjjufwqffniLLs2q2quvJ0Mj7UDD4spZLaz0iBA=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/John_carter_poster.jpg",john-carter
+https://discontrol@lh3.googleusercontent.com/A6F_2ABQYp6xpzo6SyOCtn4U6FPtBFA7Sbk9i_DTFwE=m22?disco
+#EXTINF:-1 tvg-logo="http://www.hbook.com/wp-content/uploads/2011/12/hugo-movie-poster.jpg",la-invencion-de-hugo
+https://discontrol@lh3.googleusercontent.com/RE9exZWQhLNojZy7nb2JIQEpNP17f-b01nvuDj_wvjU=m22?disco
+#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2014/05/pesadilla_en_elm_street_poster.jpg",pesadilla-en-elm-street
+https://discontrol@lh3.googleusercontent.com/2ll4ONzYQYPCAl6k83zeJJARsZNv-YszHX9-zobDn_w=m22?disco
+#EXTINF:-1 tvg-logo="http://www.abandomoviez.net/db/foto/1281687079.jpg",pesadilla-en-elm-street-2-la-venganza-de-freddy
+https://discontrol@lh3.googleusercontent.com/ppbw2BtCrwIgMgn3eyg6sBDQ-gQFXYqXEB6M-T1k3go=m22?disco
+#EXTINF:-1 tvg-logo="http://www.cineok.com/files/uploads/900.jpg",pesadilla-en-elm-street-3-los-guerreros-del-sueno
+https://discontrol@lh3.googleusercontent.com/5Rs4GaOIY9xv-bczLOZX7cwxboTXVvvTld-Sujk-X6E=m22?disco
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_10_35.jpg",pesadilla-en-elm-street-4-el-amo-del-sueno
+https://discontrol@lh3.googleusercontent.com/mbNvQ0Z8rCGERd7ES0yqjQqnuM0UL7Hy_2PvkYQZy9E=m22?disco
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/34/cd/77/34cd77276ac9850dccb0486826501a32.jpg",pesadilla-en-elm-street-5-el-nino-de-los-suenos
+https://discontrol@lh3.googleusercontent.com/rUBUvnWtc2emvRRO9nbMxc0opNSkbaF0_HJbe8mVcTg=m22?disco
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_4LrAkzfpSmM/S1xeY0afl6I/AAAAAAAAIho/ygdjtQpG2_Y/s320/A+Nightmare+On+Elm+Street+6+Freddy's+Dead+(1991).jpg",pesadilla-en-elm-street-6-pesadilla-final-la-muerte-de-freddy
+https://discontrol@lh3.googleusercontent.com/LYaXbfw7GzMm3h_lnq8DXAiY235FxHMUUWpxk8xOWjs=m22?disco
+#EXTINF:-1 tvg-logo="http://www.wicked-vision.com/images_rvk/N/NightmareOnElmStreet/FreddysNewNightmare_cover.jpg",pesadilla-en-elm-street-7-la-nueva-pesadilla-de-wes-craven
+https://discontrol@lh3.googleusercontent.com/R1X5wc2WIxFISOF0PPPACtA4HUUe1iS9BuTW90KnVa8=m22?disco
+#EXTINF:-1 tvg-logo="http://www.almasoscuras.com/images/878.jpg",pesadilla-en-elm-street-8-el-origen
+https://discontrol@lh3.googleusercontent.com/zFgujqLT_9pEbDH3yd6B2LG1iKq4ul5Jn4w3URL-sAs=m22?disco
+#EXTINF:-1 tvg-logo="http://www.bases123.com.ar/fotos/cine/pelicula_751.jpg",la-bella-y-la-bestia
+https://discontrol@lh3.googleusercontent.com/_9w3AiXydr_qCELh6X0hq0ipaB2ric32bG2brMmHkx0=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Kingkong_bigfinal1.jpg",king-kong
+https://discontol@lh3.googleusercontent.com/HvyfwdVrA8S52DS6geiMByz-oK9rAZzC0kKvFJFJsU8=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Blade_movie.jpg",blade
+https://discontrol@lh3.googleusercontent.com/EgXYgxIm79VOiPZKaYdl5ogHHB52NCKPpd9muORJiNM=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/The_Wrestler_poster.jpg",el-luchador
+https://discontrol@lh3.googleusercontent.com/MP4Ik-gvRijUCw7AIuMAVyqaH48GgICR_512zPA17LM=m22?disco
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bb/72/55/bb72554c0127b91753f9b32b8e4fb5bb.jpg",et-el-extraterrestre
+https://discontrol@lh3.googleusercontent.com/ObOsmUdVlf5mtfhHNMoySzhr6w9GtWd7TJcwm3rLOLA=m22?disco
+#EXTINF:-1 tvg-logo="http://www1.picturepush.com/photo/a/13932749/640/Imagenes/6.jpg",la evidencia
+https://discontrol@lh3.googleusercontent.com/65vf-Ji-6mSzEOK8jXVv55vZSDaA1BEF9UpWGn1XGb4=m22?disco
+#EXTINF:-1 tvg-logo="http://www.zonalibre.org/blog/chengdu/archives/matador.jpg",el matador
+http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/HardCandy_movieposter.jpg",Nina mala
+http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",horas-de-oscuridad
+http://discontrol@media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",fiesta-de-bodas
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Deadline_film.jpg/220px-Deadline_film.jpg",esquizofrenia
+http://discontrol@media-es-am.crackle.com/1/8/r0/zmoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/510uGtzH%2B0L.jpg",red line
+http://discontrol@media-es-am.crackle.com/1/l/h0/jlmyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://static4.opensubtitles.org/gfx/thumbs/3/2/5/7/0137523.jpg",el club de la pelea
+https://discontrol@ia601509.us.archive.org/26/items/37.C7V8.63.74.P3734/37.C7V8.63.74.P3734.mp4?disco
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-NcYdtQT_sU0/TxwqYB2XcbI/AAAAAAAAAAM/qJuJODFNi4Q/s1600/Men_of_honor.jpg",hombres de honor
+https://discontrol@ia801507.us.archive.org/4/items/HOW8935.63.HOZO9/HOW8935.63.HOZO9.mp4?disco
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_11298_17.jpg",temblores 5
+https://discontrol@ia801509.us.archive.org/5/items/73W87O935.5/73W87O935.5.mp4?disco
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AZw7b4Q5LXo/movieposter.jpg",los becarios
+https://discontrol@ia801506.us.archive.org/34/items/7O5.83C491O5/7O5.83C491O5.mp4?disco
+#EXTINF:-1 tvg-logo="http://images.redbox.com/Images/EPC/Kiosk/8915.jpg",cooties
+https://discontrol@ia601508.us.archive.org/32/items/COO7135/COO7135.mp4?disco
+#EXTINF:-1 tvg-logo="http://images.moviepostershop.com/the-conjuring-movie-poster-2013-1010755434.jpg",el conjuro
+https://discontrol@ia601505.us.archive.org/0/items/37.COZLU9O/37.COZLU9O.mp4?disco
+#EXTINF:-1 tvg-logo="http://www.cineol.net/galeria/bso/2582.jpg",truco o trato
+https://discontrol@ia801500.us.archive.org/29/items/T9UCO.O.T94TO/T9UCO.O.T94TO.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",el protector 
+https://discontrol@ia801501.us.archive.org/25/items/H0M3F9/H0M3F90N7-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ZVT__Ku17Jg/VOqJ0DVb_3I/AAAAAAAAJIs/XXwQ9xfl5Bk/s400/1.jpg",quiero matar a mi jefe 2
+https://discontrol@ia801501.us.archive.org/25/items/H0M3F9/H0991813.805535.2-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://aquipelis.net/wp-content/uploads/2014/07/hercules_poster_pelicula_usa.jpg",hercules
+https://discontrol@ia801508.us.archive.org/35/items/H39CU/H39CU135-ES-720.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Mission_impossible_ghost_protocol.jpg",mision imposible protocolo fantasma
+https://discontrol@lh3.googleusercontent.com/LuYDWi1K51IELgKQ7mgvhSnkp5jx31ccjIQ0lOH2qXk=m22?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sacrifice_FilmPoster.jpeg/220px-Sacrifice_FilmPoster.jpeg",sacrificio
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_385_24.jpg",robocop defensor del futuro
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Pinkpanther_mp.jpg",la pantera rosa
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_3uDgLEKQHVA/S5Q_XjVhkNI/AAAAAAAAAW8/mgfyTodbFDU/s400/2rnj521.jpg",alto impacto
+http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",el gran robo
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjEzNDM2OTgzN15BMl5BanBnXkFtZTcwMzU3MTIzMQ@@._V1_SX640_SY720_.jpg",el senor de la guerra
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/qbJjo5QIdcrJfa8_uvN5Qv3Sv2bO8_gE60sYe4MjK4YsjkShUb4_dQ9ebdp07bMk38va=w300",un perdedor sin suerte
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/15/d3/25/15d325f434c268d67e25c88fa5189dad.jpg",zona de miedo
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",la marca de la bestia
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-nvffoI_l0Kw/TZIfim-zfUI/AAAAAAAAAOw/kxexDIWp8Xs/s275/el-dia-del-apocalipsis.jpg",el dia del apocalipsis
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/0/01/PREMONICIONES_POSTER.jpg/revision/latest?cb=20121112021624&path-prefix=es",premoniciones
+http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_yCRo3KNp-Uo/TEDtNdJZybI/AAAAAAAACH4/Sa1Tjj5eKw4/s1600/impacto+mortal.jpg",impacto mortal
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/1/10/Batmanbegins.jpg/revision/latest?cb=20090901034001&path-prefix=es",batman comienza
+https://discontrol@ia601503.us.archive.org/0/items/847W4Z.93Z4C3/847W4Z.COW13ZN4.mp4?disco
+#EXTINF:-1 tvg-logo="http://tienda.canalocio.es/10450-67161-large/batman-el-caballero-oscuro.jpg",batman caballero oscuro
+https://discontrol@ia601503.us.archive.org/0/items/847W4Z.93Z4C3/847W4Z.C48.O5CV9O.mp4?disco
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/marveldatabase/images/0/01/TASP2-game.png/revision/latest?cb=20140201211807",el sorprendente hombre arana 2014
+http://discontrol@ia600507.us.archive.org/34/items/7H3.4M/7H3.4M4ZIN6.5P1D39.M4N-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="http://v2.imgs24.com/images/2014/02/28/poster1.jpg",guerra mundial z
+http://discontrol@ia801306.us.archive.org/28/items/37_W091/W091D.W49.Z-ES-720.mp4?disco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Annabelle-poster.jpg",anabelle
+https://ia801508.us.archive.org/35/items/H39CU/4N483113-ES-720.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/RunAllNight_TeaserPoster.jpg",run all night
+http://discontrol@ia801302.us.archive.org/11/items/9UNA11/9UNA11NI6HT-720-ES.mp4?disco
+`#EXTINF:-1 tvg-logo="http://media.kics.com.au/7flGP_jRqUWXwx3UjTrmdQ_medium.jpg",Tammy
+http://www.spruto.tv/get_file/1/da244c0319e3ae01bf70ba73c17a90b2/86000/86886/86886.mp4
+#EXTINF:-1 tvg-logo="http://www.descargatelocorp.com/wp-content/uploads/2014/09/Las-Novias-de-mis-Amigo-DVDRip.jpg",Las novias de mis amigos
+http://www.spruto.tv/get_file/1/74a868ab2199d5554acc4be5793b8b69/86000/86881/86881.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/36/60/67/366067978955923bc84c3931c4f35ba2.jpg",If i stay
+http://www.spruto.tv/get_file/2/9b10b5eba7e38b030f5f43c791232e01/89000/89860/89860.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Step_Up_All_In_poster.jpg",Step Up All in
+http://www.spruto.tv/get_file/2/7a5d7bfdfb543bc34e81feb859ddea96/89000/89037/89037.mp4
+#EXTINF:-1 tvg-logo="http://www.imagensn.com/images/2013/07/25/Apartamento_1303_2013_DVD.jpg",Apartamento 1303
+http://www.spruto.tv/get_file/1/49d3ace5335a6cabdc5a3581b37dbc85/86000/86749/86749.mp4
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_20562.jpg",Hermosas Criaturas
+http://www.spruto.tv/get_file/1/ec0d0600daeeec97ebaa31311b47e954/86000/86754/86754.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Harts_war.jpg/220px-Harts_war.jpg",Heart's war
+http://www.spruto.tv/get_file/1/eb749898480b80d9cfdc14d02b3502e9/86000/86758/86758.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",El Ritual
+http://www.spruto.tv/get_file/1/bf6524f4bf8a27f4fd22679c3ab63e5d/86000/86768/86768.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/The_Ardor_filmposter.jpg/220px-The_Ardor_filmposter.jpg",El Ardor
+http://www.spruto.tv/get_file/1/e3eb16575a9ab7040738f775c378e0fc/86000/86900/86900.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-NXstvoW6dKI/UU_B9beJUaI/AAAAAAAAB_c/D2Nw0nrR0rM/s1600/The.Call.Poster.www.Cinetux.org.jpg",Linea de emergencia
+http://www.spruto.tv/get_file/1/3108ebb516e9408172f63c0fff8735a0/87000/87388/87388.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Resident_evil_ver4.jpg",Resident Evil 1
+http://www.spruto.tv/get_file/5/02f3cad653cf6bf90f3d6a687be0c7c1/107000/107712/107712.mp4
+#EXTINF:-1 tvg-logo="http://s2.dmcdn.net/LKf5G/x240-oUm.jpg",Resident Evil 2
+http://www.spruto.tv/get_file/5/a143559439fde8b3d5817dc38fcf6de4/107000/107714/107714.mp4
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51Zxo64nw4L.jpg",Resident Evil 3
+http://www.spruto.tv/get_file/5/1f619a5dd9432ad4da1bffdbe29b0c37/107000/107716/107716.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Resident_Evil-_Afterlife.jpg/220px-Resident_Evil-_Afterlife.jpg",Resident Evil 4
+http://www.spruto.tv/get_file/5/fa3bad7fd1d1264e7465ba30c80092af/107000/107718/107718.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Resident_evil_retribution_poster.jpg",Resident Evil 5
+http://www.spruto.tv/get_file/5/81a03f967e961563abacedd4ac410e8a/107000/107720/107720.mp4
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/xLEbynM8KSD-RXYHOlyYIMIzlOFCuACMfPJA2gkIJMKTHvMJ3OJb7W99gm4gy0wLKvZy=w300",RAPIDOS Y FURIOSOS 1
+http://www.spruto.tv/get_file/5/434f35c1a57dddfd97bddedf08ddcb49/106000/106827/106827.mp4
+#EXTINF:-1 tvg-logo="http://topmovies21.heck.in/files/2-fast-2-furious-2003-b.jpg",RAPIDOS Y FURIOSOS 2
+http://www.spruto.tv/get_file/5/212cee7b0787e8edea9c29142005f53e/106000/106829/106829.mp4
+#EXTINF:-1 tvg-logo="http://topmovies21.heck.in/files/fast-and-the-furious-toky.jpg",RAPIDOS Y FURIOSOS 3
+http://www.spruto.tv/get_file/5/9b5cca36e542f6564b6243db0cc7680e/106000/106831/106831.mp4
+#EXTINF:-1 tvg-logo="http://lejup.lv/f/55ddb96295addejpiojx1440594274.jpg",RAPIDOS Y FURIOSOS 4
+http://www.spruto.tv/get_file/5/77c6fd40d2150217d579dad0be22c890/106000/106833/106833.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/6b/49/7a/6b497aea29fc8a77a4e1f794b9e31524.jpg",RAPIDOS Y FURIOSOS 5
+http://www.spruto.tv/get_file/5/25824b7cd75852b54e4730e5ba84ad0f/106000/106835/106835.mp4
+#EXTINF:-1 tvg-logo="http://cdn.koimoi.com/wp-content/new-galleries/2013/05/Fast-Furious-6-Movie-Poster.jpg",RAPIDOS Y FURIOSOS 6
+http://www.spruto.tv/get_file/2/4b474dc1ff07a5c743d7e047cbb10e37/89000/89812/89812.mp4
+#EXTINF:-1 tvg-logo="http://watchplayread.com/files/2013/09/Furious-7-Movie-Poster-320x479.jpg",RAPIDOS Y FURIOSOS 7
+http://www.spruto.tv/get_file/5/b109a1ceb8b8eaa7e1cee0517fb85cdf/115000/115109/115109.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Faster2010Poster.jpg/220px-Faster2010Poster.jpg",Sed de Venganza
+http://www.spruto.tv/get_file/5/51fb81b0200dfb9fbaf250e67b10c947/112000/112079/112079.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Jack_and_jill_film_poster.jpg",JACK Y JILL
+http://www.spruto.tv/get_file/5/eba0f977a112474be076b0b9a7ebba1f/108000/108686/108686.mp4
+#EXTINF:-1 tvg-logo="http://www.pelismundo.com/wp-content/uploads/2015/06/Todo-incluido-Solo-para-parejas.jpg",SOLO PARA PAREJAS
+http://www.spruto.tv/get_file/5/25233029eba7600c6efe237183e19485/114000/114219/114219.mp4
+#EXTINF:-1 tvg-logo="http://www.theoz.cl/videoclub/images/3880_ESTE%20CUERPO%20NO%20ES%20MIO.jpg",ESTE CUERPO NO ES MIO
+http://www.spruto.tv/get_file/5/9b05f30b3917dcefac899f209846be8e/112000/112064/112064.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Neighbors_(2013)_Poster.jpg",MALDITOS VECINOS
+http://www.spruto.tv/get_file/2/d54fc4a1c763d0e0755c756a210cf8a4/105000/105286/105286.mp4
+#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2014/11/La_hija_de_Moctezuma_poster_latino.jpg",LA HIJA DE MOCTEZUMA
+http://www.spruto.tv/get_file/5/6ec503588dbca389fa55ba83692be7b1/115000/115820/115820.mp4
+#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2014/08/The_Interview_poster_usa.jpg",UNA LOCA ENTREVISTA
+http://www.spruto.tv/get_file/5/97815af2d345c20f5d14a74af09b15ce/115000/115515/115515.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg",CAPITAN AMERICA 1
+http://www.spruto.tv/get_file/5/99cf97e972d9eb68d08a64f6f26bb093/110000/110849/110849.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jMJIDnUHP-E/Uzb9Chi96oI/AAAAAAAAFko/6kmg0e83CnE/s320/capitan-america-2.jpg",CAPITAN AMERICA 2
+http://www.spruto.tv/get_file/5/21f09609e8f51f3672f339b7553bb1b2/110000/110852/110852.mp4#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/ManofSteelFinalPoster.jpg",EL HOMBRE DE ACERO
+http://www.spruto.tv/get_file/5/cc2a24f35ec7c725969e48a275d2a814/109000/109085/109085.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",EL HOBBIT 1
+http://www.spruto.tv/get_file/2/34c04cb4d853bfa4246bf22a59f46b57/92000/92299/92299.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",EL HOBBIT 2
+http://www.spruto.tv/get_file/1/ad12571326ffd5c9a573bfc551bec3aa/88000/88259/88259.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",EL HOBBIT 3
+http://www.spruto.tv/get_file/5/325f31006a1edb90b8d703749f941c9b/115000/115101/115101.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",EL SEÑOR DE LOS ANILLOS 1
+http://www.spruto.tv/get_file/2/1cdcb7a5a34c448458c989c4a8ea63ac/92000/92303/92303.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",EL SEÑOR DE LOS ANILLOS 2
+http://www.spruto.tv/get_file/2/ffdfa3598aa29f3d798de90672748ddd/92000/92307/92307.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JvsJW-cQ4vE/Vpnm8_Yq4II/AAAAAAAAAFw/aBWVbMXlCGg/s1600/rodrigoiptv%2Blogo.png",EL SEÑOR DE LOS ANILLOS 3
+http://www.spruto.tv/get_file/2/71e2263d6e983814600c732e9076d858/92000/92306/92306.mp4
+#EXTINF:-1 tvg-logo="http://www.futurefantastique.com/uploads/1/9/6/2/19626163/164741.jpg",X-men 1
+http://www.spruto.tv/get_file/2/f136f3a737a06d7d6f52255fc8d0c953/97000/97116/97116.mp4
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/518ENNDMC4L.jpg",X-men 2
+http://www.spruto.tv/get_file/2/fa26cb0ffaaf6f30f17205ad95b7b2d5/105000/105715/105715.mp4
+#EXTINF:-1 tvg-logo="https://robsagenius.files.wordpress.com/2015/06/last-stand.jpg",X-men 3
+http://www.spruto.tv/get_file/2/d6d5fa1018e5a9619555c437b26b9931/105000/105717/105717.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/X-MenFirstClassMoviePoster.jpg",X-men Primera Generacion
+http://www.spruto.tv/get_file/2/f33f853716f6ecf74c9b4c8ede9f7f65/105000/105720/105720.mp4
+#EXTINF:-1 tvg-logo="http://cs620431.vk.me/v620431006/181b5/0B7ypqH-H2w.jpg",X-men Dias de Futuro Pasado
+http://www.spruto.tv/get_file/2/aa1cd1e775399507ece04af201c1641e/97000/97119/97119.mp4
+#EXTINF:-1 tvg-logo="http://img.emol.com/2009/08/12/File_200981218250.jpg",X-men Wolverine Origenes
+http://www.spruto.tv/get_file/2/5082de5577af1c96970323f85f6bb7d8/105000/105719/105719.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/54/1b/eb/541beb208ebebdba4a7c3e67b0d866bd.jpg",X-men Wolverine Inmortal
+http://www.spruto.tv/get_file/2/2bcad26c929f87be992c432ca73b3d13/105000/105713/105713.mp4
+#EXTINF:-1 tvg-logo="http://sim01.in.com/62/79b3538612412c8d2fb8a113d8f33107_pt_xl.jpg",BUSQUEDA IMPLACABLE 1
+http://www.spruto.tv/get_file/1/ddd1223bf92310814da0e02360f78835/86000/86899/86899.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Taken_2_Poster.jpg/220px-Taken_2_Poster.jpg",BUSQUEDA IMPLACABLE 2
+http://www.spruto.tv/get_file/1/4c8f4824917b793ad7b5fd3eb5d0c7ab/86000/86883/86883.mp4
+#EXTINF:-1 tvg-logo="http://neverdownload.com/wp-content/uploads/2015/07/Taken-3-movie-poster.jpg",BUSQUEDA IMPLACABLE 3
+http://www.spruto.tv/get_file/5/72a07283a1f952907c419c7ac8ae22d8/109000/109059/109059.mp4
+#EXTINF:-1 tvg-logo="http://i27.tinypic.com/ipbl88.jpg",LA LEYENDA DEL TESORO PERDIDO 1
+http://www.spruto.tv/get_file/7/9d9c949a8735bc7da3b9f51210a54cfb/77000/77011/77011.mp4
+#EXTINF:-1 tvg-logo="http://dolimg-latam.disneycdn.com/cdn_assets/0f7dc7c862e20e0364e4ffde7600caa6e9f38d92.jpg",La Leyenda del Tesoro Perdido 2
+http://www.spruto.tv/get_file/7/0b78b500d48aeb8d20f6576b6c5d6f56/77000/77012/77012.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Terminator1984movieposter.jpg",TERMINATOR 1
+http://www.spruto.tv/get_file/2/5eeefeb160c8956b067f20c279456d73/99000/99463/99463.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/d5/07/cb/d507cb3db08ab9a5d390c5ee6fe7a4b8.jpg",TERMINATOR 2
+http://www.spruto.tv/get_file/2/e65f192029d67988ccb97e73830f0421/99000/99462/99462.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/2f/3f/1e/2f3f1e518d740c0739c197912c4c1e56.jpg",TERMINATOR 3
+http://www.spruto.tv/get_file/2/a765d5f2e70847a79a661cb08ed24fa7/106000/106215/106215.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Terminator-salvation-poster.jpg",TERMINATOR 4
+http://www.spruto.tv/get_file/2/2ff899099f3d5e40b3c7c1bd0d67715c/106000/106217/106217.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Terminator_Genisys.JPG",TERMINATOR 5
+http://www.spruto.tv/get_file/5/5f9332a1b90e53feec10094fc8a491c2/120000/120000/120000.mp4
+#EXTINF:-1 tvg-logo="http://www.peliculasflv.tv/wp-content/uploads/2015/03/harry1.jpg",HARRY POTTER 1
+http://www.spruto.tv/get_file/1/bf0c0a385e6697e57e8698580bd821ce/87000/87798/87798.mp4
+#EXTINF:-1 tvg-logo="https://fandangogroovers.files.wordpress.com/2011/07/harry-potter-and-the-chamber-of-secrets.jpg",HARRY POTTER 2
+http://www.spruto.tv/get_file/1/461629883a40e719768b3415a2442caf/87000/87801/87801.mp4
+#EXTINF:-1 tvg-logo="http://www.jkrowling.com/uploads/images/timeline-image-harry-potter-and-the-prisoner-of-azkaban-film-1332770375-ccw.png",HARRY POTTER 3
+http://www.spruto.tv/get_file/1/0791ebc980bb10368f5c728910507a98/87000/87795/87795.mp4
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX640_SY720_.jpg",HARRY POTTER 4
+http://www.spruto.tv/get_file/1/d0732cfbadb8791161080bc61e0bcb33/87000/87429/87429.mp4
+#EXTINF:-1 tvg-logo="http://www.locatetv.com/blog/wp-content/uploads/2011/07/ORDER-OF-THE-PHEONIX_5.jpg",HARRY POTTER 5
+http://www.spruto.tv/get_file/1/dde862b9af63b6021f3d9277ed638f50/87000/87980/87980.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TA7uBS2hfik/movieposter.jpg", HARRY POTTER 6
+http://www.spruto.tv/get_file/1/90a67a27f9eda9cb3f482b074232d89d/87000/87794/87794.mp4
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51Aorrecn0L._SX200_QL80_.jpg",HARRY POTTER 7 parte 1
+http://www.spruto.tv/get_file/1/d6b2ad1c77d6d188a5065b8877875094/87000/87985/87985.mp4
+#EXTINF:-1 tvg-logo="http://static5.shop.indiatimes.com/images/products/original/B456353/movies/action/harry-potter-and-the-deathly-hallows-part-2-dvd.jpg", HARRY POTTER 7 parte 2
+http://www.spruto.tv/get_file/1/54db2c3d7280ed8375e64e7f29271d7d/87000/87983/87983.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG",IRON MAN 1
+http://www.spruto.tv/get_file/1/1a2703d460834959ef769c09094b6d70/87000/87803/87803.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg",IRON MAN 2
+http://www.spruto.tv/get_file/5/e91fc8e010f0a096542a76a93d4e2877/108000/108007/108007.mp4
+#EXTINF:-1 tvg-logo="http://x.annihil.us/u/prod/marvel/i/mg/c/a0/521f70fab9fd8/portrait_incredible.jpg",IRON MAN 3
+http://www.spruto.tv/get_file/5/64ec2b83e4a5b1d011d3481e21331156/116000/116842/116842.mp4
+#EXTINF:-1 tvg-logo="http://x.annihil.us/u/prod/marvel/i/mg/6/50/521f70b81f7d3/portrait_incredible.jpg",AVENGERS 1
+http://www.spruto.tv/get_file/5/c27b19c56ce6426718820f6d2ce07616/111000/111496/111496.mp4
+#EXTINF:-1 tvg-logo="http://x.annihil.us/u/prod/marvel/i/mg/6/50/521f70b81f7d3/portrait_incredible.jpg",AVENGERS 2
+http://www.spruto.tv/get_file/5/c08a02fe9c0898d5b84809adc2e05d3e/115000/115114/115114.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Insidious_poster.jpg", INSIDIOUS 1
+http://www.spruto.tv/get_file/5/9dc58abe37b0aaf5fdf37066c08b9b40/118000/118551/118551.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Insidious_%E2%80%93_Chapter_2_Poster.jpg",INSIDIOUS 2
+http://www.spruto.tv/get_file/5/062f98028b98ada2f78b4cb43ac5aecf/118000/118554/118554.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Insidious_%E2%80%93_Chapter_3_poster.jpg",INSIDIOUS 3
+http://www.spruto.tv/get_file/5/268635239bbbed7f5079647cd8a82fab/116000/116076/116076.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/04/39/27/043927535842c6e820d05e97fd0f7c60.jpg",UNA NOCHE EN EL MUSEO 1
+http://www.spruto.tv/get_file/5/a2647bb5c64e9c190c1eec89b1ea7395/111000/111324/111324.mp4
+#EXTINF:-1 tvg-logo="http://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/16380.jpg",UNA NOCHE EN EL MUSEO 3
+http://www.spruto.tv/get_file/2/1bb4e6aa6a6efc957d602a72b71f3bd3/102000/102864/102864.mp4
+#EXTINF:-1 tvg-logo="http://www.peliculasgo.com/wp-content/uploads/2015/05/La-Dama-de-Negro-2-240x300.png",La Dama de Negro 1
+http://www.spruto.tv/get_file/2/ca9dc7209f6e036d4b9ad6f1fc148f09/97000/97972/97972.mp4
+#EXTINF:-1 tvg-logo="http://catalogodepeliculas.com/ESTREN1462.jpg", La Dama de Negro 2
+http://www.spruto.tv/get_file/2/0e70e0e9c4dac0eb3b4e09bac155462b/101000/101791/101791.mp4
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51IdkBZVUOL.jpg",LOS INDESTRUCTIBLES 1
+http://www.spruto.tv/get_file/5/68918783d0ef282bad20006c45809328/107000/107983/107983.mp4
+#EXTINF:-1 tvg-logo="http://i.azcentral.com/thingstodo/movies/images/113895/113895_ac.jpg",LOS INDESTRUCTIBLES 2
+http://www.spruto.tv/get_file/5/db32d118ced6947e7619cf10fa033d19/107000/107749/107749.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Expendables_3_poster.jpg",LOS INDESTRUCTIBLES 3
+http://www.spruto.tv/get_file/1/adee92811357b0acd345712fda254260/88000/88265/88265.mp4
+#EXTINF:-1 tvg-logo="http://www.zafraartevideo.com/admin/trabajo/cintas/portadas/cuentosquenoson.jpg",CUENTOS QUE NO SON CUENTO (2008)
+http://www.spruto.tv/get_file/7/281d8ddd0cee99fc557c87bb7e863d4f/76000/76275/76275.mp4?start=0
+#EXTINF:-1 tvg-logo="http://moviesnshows.net/files/2014/10/14d3u2w.jpg",CUERNOS (2013)
+http://www.spruto.tv/get_file/5/d3ad49592ec6a3940a1301b8d36c5c2d/112000/112526/112526.mp4?start=0
+#EXTINF:-1 tvg-logo="https://static-cp-cache.s3-us-west-2.amazonaws.com/q100/w250/static-cp/movie/movie_6e21d40353bf53f5d7cb48d594757fb6_el-aprendiz-de-brujo-jpg_173262_5605.jpg",EL APRENDIZ DE BRUJO (2010)
+http://www.spruto.tv/get_file/7/bb770d51d59de6cef6fd55ac2a435bd3/76000/76334/76334.mp4?start=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Godzilla_(2014)_poster.jpg",GODZILLA
+http://www.spruto.tv/get_file/1/731b1d70f1944988b1de24cf82427918/82000/82655/82655.mp4?start=0
+#EXTINF:-1 tvg-logo="http://www.currentfilm.com/images5/hartswardvdcover.jpg",HARTS WAR
+http://www.spruto.tv/get_file/1/eb749898480b80d9cfdc14d02b3502e9/86000/86758/86758.mp4
+#EXTINF:-1 tvg-logo="http://image.casadellibro.com/m/ig/7/2555547.jpg",PERDIENDO EL NORTE
+http://www.spruto.tv/get_file/5/6a25b4ae49ab17330c8f5a55e6448f97/118000/118625/118625.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/52nlAdAO3WJ47gQ91FlJmY6pEon.jpg",RESCATANDO A PAPA
+http://www.spruto.tv/get_file/7/5bbfa6df890152c38e661d2f9372392a/76000/76865/76865.mp4
+#EXTINF:-1 tvg-logo="https://verimap.files.wordpress.com/2010/04/rescate-en-la-antartida.jpg",RESCATE EN LA ANTÁRTIDA (2006)
+http://www.spruto.tv/get_file/7/b0afc7ca29e56df76ccb5ee54d3d28b9/76000/76744/76744.mp4?start=0
