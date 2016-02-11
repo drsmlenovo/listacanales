@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/CJYz2vRM00w/mqdefault.jpg" group-title="GENEPELICULAS",los 33 
+#EXTINF:-1 tvg-logo="http://img.youtube.com/vi/CJYz2vRM00w/mqdefault.jpg" ",los 33 
 https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv
-#EXTINF:-1 tvg-logo="http://enguadalajara.mx/wp-content/uploads/2015/07/image001.jpg" group-title="GENEPELICULAS",Mision imposible: Nacion secreta
+#EXTINF:-1 tvg-logo="http://enguadalajara.mx/wp-content/uploads/2015/07/image001.jpg" ",Mision imposible: Nacion secreta
 https://lh3.googleusercontent.com/hNXj1AUtB2kn9HfuCK-LovN1EB5msrlNyiiGDjW1WBA=m22
-#EXTINF:-1 tvg-logo="http://www.super-peliculas.com/_nw/0/65175158.jpg" group-title="GENEPELICULAS",El corredor del laberinto: Las pruebas
+#EXTINF:-1 tvg-logo="http://www.super-peliculas.com/_nw/0/65175158.jpg" group-title="",El corredor del laberinto: Las pruebas
 https://lh3.googleusercontent.com/WlRQXHAxQDggBnivUw3UfdUrzq2k7wydHwddwwG8Hq4=m37
-#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_SX640_SY720_.jpg" group-title="GENEPELICULAS",Ted 2
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_SX640_SY720_.jpg"",Ted 2
 https://lh3.googleusercontent.com/3iuPbTxgl4DeuqyRTGzaBY1wk33fzudzU6K6oYpkA0s=m37
-#EXTINF:-1 tvg-logo="http://www.alfabetajuega.com/thumbnails/concursos/259.alfabetajuega-hitman-poster.not.jpg" group-title="GENEPELICULAS",Hitman: Agente 47
+#EXTINF:-1 tvg-logo="http://www.alfabetajuega.com/thumbnails/concursos/259.alfabetajuega-hitman-poster.not.jpg" ",Hitman: Agente 47
 https://lh3.googleusercontent.com/jjtDmmO3Gc4N3fn57XE7lxfmzqIAmRsQA065QXDkW3Y=m37
-#EXTINF:-1 tvg-logo="http://static.hellofriki.com/wp-content/uploads/2015/09/Marvel-Ant-Man-Banner-Poster.jpg" group-title="GENEPELICULAS",Ant-Man
+#EXTINF:-1 tvg-logo="http://static.hellofriki.com/wp-content/uploads/2015/09/Marvel-Ant-Man-Banner-Poster.jpg" ",Ant-Man
 https://lh3.googleusercontent.com/dKhaBcSq8PtRf20tZGceVSHxqpHwd7e5WliOC-Z8k9Y=m37
